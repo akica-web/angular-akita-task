@@ -1,0 +1,11 @@
+:host {
+  // padding: 16px;
+  main {
+    height: 100%;
+  }
+  .btn-container {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 16px;
+  }
+}
